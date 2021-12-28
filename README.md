@@ -4,10 +4,10 @@
 ### *V<sub>1</sub>*-From Semantic Categories to Fixations: A Novel Weakly-supervised Visual-auditory Saliency Detection Approach ([CVPR2021](https://openaccess.thecvf.com/CVPR2021)), pdf:[V<sub>1</sub>](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_From_Semantic_Categories_to_Fixations_A_Novel_Weakly-Supervised_Visual-Auditory_Saliency_CVPR_2021_paper.pdf)
 ****
 ### Introduction
-*  This repository contains the source code, results, and evaluation toolbox of STANet+ (V2), which are the journal extension version of our paper STANet (V<sub>1</sub>) published at CVPR-2021.    
-*  Compared our conference version STANet (V<sub>2</sub>), which  has been extended in two distinct aspects.     
-**First** on the basis  of multisource and multiscale perspectives which have been  adopted by the CVPR version (V1), we have provided a deep insight into the relationship between multigranularity perception (***Fig.2***) and real human attention behaved in visual-auditory  environment.     
-**Second** without using any complex networks, we have provided an elegant framework to complementary integrate multisource, multiscale, and multigranular information (***Fig.1***) to formulate pseudofixations which are very consistent with the real ones. Apart from achieving significant performance gain, this work also provides a comprehensive solution for mimicking multimodality attention.    
+*  This repository contains the source code, results, and evaluation toolbox of **STANet+** (V2), which are the journal **extension version** of our paper **STANet** (V<sub>1</sub>) published at **CVPR-2021**.    
+*  Compared our conference version STANet (V<sub>2</sub>), which  has been extended in **two distinct aspects**.     
+**First** on the basis of multisource and multiscale perspectives which have been adopted by the CVPR version (V1), we have provided a deep insight into the relationship between **multigranularity perception** (***Fig.2***) and real human attention behaved in visual-auditory environment.     
+**Second** without using any complex networks, we have provided an elegant framework to complementary integrate **multisource, multiscale, and multigranular information** (***Fig.1***) to formulate pseudofixations which are very consistent with the real ones. Apart from achieving significant performance gain, this work also provides a comprehensive solution for mimicking multimodality attention.    
 
 <div align=center><img width="800" height="380" src="https://github.com/guotaowang/STANet/blob/main/fig/STANet2.gif"/></div>
 <p align="center">
