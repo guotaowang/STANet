@@ -85,7 +85,7 @@ denotes the higher the score, the better the performance.  </p>
 If you find this work useful for your research, please consider citing the following paper:   
 
     @InProceedings{Wang_2021_CVPR,  
-        author    = {Guotao Wang and Chenglizhao Chen and Dengping Fan and Aimin Hao and Hong Qin},
+        author    = {Wang, Guotao and Chen, Chenglizhao and Fan, Deng-Ping and Hao, Aimin and Qin, Hong},
         title     = {From Semantic Categories to Fixations: A Novel Weakly-Supervised Visual-Auditory Saliency Detection Approach},  
         booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},  
         month     = {June},  
