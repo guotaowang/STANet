@@ -25,7 +25,7 @@ Figure 2: Some representative ’fixation shifting’ cases, additional multigra
 
 ### Dependencies  
 * Windows10    
-* NVIDIA GeForce RTX 2070 SUPER  
+* NVIDIA GeForce RTX 2070 SUPER & NVIDIA GeForce RTX 1080Ti  
 * python 3.6.4    
 * Matlab R2016b    
 * pytorch 1.8.0    
