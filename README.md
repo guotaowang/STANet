@@ -33,7 +33,7 @@ Figure 2: Some representative ’fixation shifting’ cases, additional multigra
 
 ### Preparation
 ##### Downloading the official pretrained visual and audio model    
-**Visual**:[resnext101_32x8d](https://pytorch.org/hub/facebookresearch_WSL-Images_resnext/), [vgg16]('https://download.pytorch.org/models/vgg16-397923af.pth')     
+**Visual**:[resnext101_32x8d](https://pytorch.org/hub/facebookresearch_WSL-Images_resnext/), [vgg16](https://download.pytorch.org/models/vgg16-397923af.pth)     
 **Audio**: [vggsound](https://github.com/hche11/VGGSound), `net = torch.load('vggsound_netvlad')`.    
 ##### Downloading the training dataset and testing dataset:    
 **Training dataset**: [AVE](https://drive.google.com/file/d/1FjKwe79e0u96vdjIVwfRQ1V6SoDHe7kK/view)(Audio Visual Event Location).    
