@@ -94,11 +94,9 @@ If you find this work useful for your research, please consider citing the follo
     }  
     
     
-    @misc{wang2021weakly,
-        title={Weakly Supervised Visual-Auditory Saliency Detection with Multigranularity Perception}, 
-        author={Guotao Wang and Chenglizhao Chen and Dengping Fan and Aimin Hao and Hong Qin},
-        year={2021},
-        eprint={2112.13697},
-        archivePrefix={arXiv},
-        primaryClass={cs.CV}
-    }
+@article{wang2021weakly,
+  title={Weakly Supervised Visual-Auditory Saliency Detection with Multigranularity Perception},
+  author={Wang, Guotao and Chen, Chenglizhao and Fan, Dengping and Hao, Aimin and Qin, Hong},
+  journal={arXiv preprint arXiv:2112.13697},
+  year={2021}
+}
