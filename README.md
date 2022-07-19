@@ -1,6 +1,6 @@
 # Pytorch Implementation for **(STANet+ and STANet)** 
           
-### *V<sub>2</sub>*-Weakly Supervised Visual-Auditory Saliency Detection with Multigranularity Perception ([arxiv](https://arxiv.org/abs/2112.13697)), pdf:[V<sub>2</sub>](https://arxiv.org/pdf/2112.13697.pdf)
+### *V<sub>2</sub>*-Weakly Supervised Visual-Auditory Human-eye Fixation Prediction with Multigranularity Perception ([arxiv](https://arxiv.org/abs/2112.13697)), pdf:[V<sub>2</sub>](https://arxiv.org/pdf/2112.13697.pdf)
 ### *V<sub>1</sub>*-From Semantic Categories to Fixations: A Novel Weakly-supervised Visual-auditory Saliency Detection Approach ([CVPR2021](https://openaccess.thecvf.com/CVPR2021)), pdf:[V<sub>1</sub>](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_From_Semantic_Categories_to_Fixations_A_Novel_Weakly-Supervised_Visual-Auditory_Saliency_CVPR_2021_paper.pdf)
 ****
 ### Introduction
@@ -95,8 +95,8 @@ If you find this work useful for your research, please consider citing the follo
     
     
     @article{wang2021weakly,
-       title={Weakly Supervised Visual-Auditory Saliency Detection with Multigranularity Perception},
-       author={Wang, Guotao and Chen, Chenglizhao and Fan, Dengping and Hao, Aimin and Qin, Hong},
+       title={Weakly Supervised Visual-Auditory Human-eye Fixation Prediction with Multigranularity Perception},
+       author={Wang, Guotao and Chen, Chenglizhao and Fan, Deng-ping and Hao, Aimin and Qin, Hong},
        journal={arXiv preprint arXiv:2112.13697},
        year={2021}
     }
