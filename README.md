@@ -3,6 +3,9 @@
 ### *V<sub>2</sub>*-Weakly Supervised Visual-Auditory Fixation Prediction with Multigranularity Perception ([arxiv](https://arxiv.org/abs/2112.13697)), pdf:[V<sub>2</sub>](https://arxiv.org/pdf/2112.13697.pdf)
 ### *V<sub>1</sub>*-From Semantic Categories to Fixations: A Novel Weakly-supervised Visual-auditory Saliency Detection Approach ([CVPR2021](https://openaccess.thecvf.com/CVPR2021)), pdf:[V<sub>1</sub>](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_From_Semantic_Categories_to_Fixations_A_Novel_Weakly-Supervised_Visual-Auditory_Saliency_CVPR_2021_paper.pdf)
 ****
+### Application
+<div align=center><img width="650" height="850" src="https://github.com/guotaowang/STANet/blob/main/fig/APP.gif"/></div>
+****
 ### Introduction
 *  This repository contains the source code, results, and evaluation toolbox of **STANet+** (V2), which are the journal **extension version** of our paper **STANet** (V<sub>1</sub>) published at **CVPR-2021**.    
 *  Compared our conference version STANet (V<sub>2</sub>), which  has been extended in **two distinct aspects**.     
@@ -30,8 +33,7 @@ Figure 2: Some representative ’fixation shifting’ cases, additional multigra
 * Matlab R2016b    
 * pytorch 1.8.0    
 * soundmodel       
-### Application
-<div align=center><img width="650" height="850" src="https://github.com/guotaowang/STANet/blob/main/fig/APP.gif"/></div>
+
 ### Preparation
 ##### Downloading the official pretrained visual and audio model    
 **Visual**:[resnext101_32x8d](https://pytorch.org/hub/facebookresearch_WSL-Images_resnext/), [vgg16](https://download.pytorch.org/models/vgg16-397923af.pth)     
@@ -69,7 +71,7 @@ The model **weight** file STANet+, STANet, AudioSwitch:
 ([Baidu Netdisk](https://pan.baidu.com/s/1nvtJm1Z6-sHBaLPsEHhw4Q), code:6afo).  
 
 #### Quantitative comparisons:    
-<div align=center><img width="650" height="850" src="https://github.com/guotaowang/STANet/blob/main/fig/Comparef.gif"/></div>
+<div align=center><img width="650" height="850" src="https://github.com/guotaowang/STANet/blob/main/fig/comparef.gif"/></div>
 <p align="center">  Qualitative results of our method and eight representative saliency models: ITTI, GBVS, SCLI, SBF, AWS-D, WSS, MWS, WSSA. It can be observed that our method is able to handle various challenging scenes well and produces more accurate results than other competitors.   </p>     
 
 #### Qualitative comparisons:
