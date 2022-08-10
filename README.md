@@ -35,6 +35,8 @@ Figure 2: Some representative ’fixation shifting’ cases, additional multigra
 * Matlab R2016b    
 * pytorch 1.8.0    
 * soundmodel       
+* Linux
+* TITAN V * 8
 
 ### Preparation
 ##### Downloading the official pretrained visual and audio model    
