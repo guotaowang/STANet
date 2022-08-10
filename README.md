@@ -30,7 +30,8 @@ Figure 2: Some representative ’fixation shifting’ cases, additional multigra
 * Matlab R2016b    
 * pytorch 1.8.0    
 * soundmodel       
-
+### Application
+<div align=center><img width="650" height="850" src="https://github.com/guotaowang/STANet/blob/main/fig/APP.gif"/></div>
 ### Preparation
 ##### Downloading the official pretrained visual and audio model    
 **Visual**:[resnext101_32x8d](https://pytorch.org/hub/facebookresearch_WSL-Images_resnext/), [vgg16](https://download.pytorch.org/models/vgg16-397923af.pth)     
@@ -68,7 +69,7 @@ The model **weight** file STANet+, STANet, AudioSwitch:
 ([Baidu Netdisk](https://pan.baidu.com/s/1nvtJm1Z6-sHBaLPsEHhw4Q), code:6afo).  
 
 #### Quantitative comparisons:    
-<div align=center><img width="650" height="850" src="https://github.com/guotaowang/STANet/blob/main/fig/Compare2.gif"/></div>
+<div align=center><img width="650" height="850" src="https://github.com/guotaowang/STANet/blob/main/fig/Comparef.gif"/></div>
 <p align="center">  Qualitative results of our method and eight representative saliency models: ITTI, GBVS, SCLI, SBF, AWS-D, WSS, MWS, WSSA. It can be observed that our method is able to handle various challenging scenes well and produces more accurate results than other competitors.   </p>     
 
 #### Qualitative comparisons:
