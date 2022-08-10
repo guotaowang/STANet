@@ -4,7 +4,7 @@
 ### *V<sub>1</sub>*-From Semantic Categories to Fixations: A Novel Weakly-supervised Visual-auditory Saliency Detection Approach ([CVPR2021](https://openaccess.thecvf.com/CVPR2021)), pdf:[V<sub>1</sub>](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_From_Semantic_Categories_to_Fixations_A_Novel_Weakly-Supervised_Visual-Auditory_Saliency_CVPR_2021_paper.pdf)
 ****
 ### Application
-<div align=center><img width="650" height="850" src="https://github.com/guotaowang/STANet/blob/main/fig/APP.gif"/></div>
+<div align=center><img width="400" height="200" src="https://github.com/guotaowang/STANet/blob/main/fig/APP.gif"/></div>
 ****
 ### Introduction
 *  This repository contains the source code, results, and evaluation toolbox of **STANet+** (V2), which are the journal **extension version** of our paper **STANet** (V<sub>1</sub>) published at **CVPR-2021**.    
@@ -71,13 +71,13 @@ The model **weight** file STANet+, STANet, AudioSwitch:
 ([Baidu Netdisk](https://pan.baidu.com/s/1nvtJm1Z6-sHBaLPsEHhw4Q), code:6afo).  
 
 #### Quantitative comparisons:    
-<div align=center><img width="650" height="850" src="https://github.com/guotaowang/STANet/blob/main/fig/comparef.gif"/></div>
+<div align=center><img width="650" height="850" src="https://github.com/guotaowang/STANet/blob/main/fig/Compare2.gif"/></div>
 <p align="center">  Qualitative results of our method and eight representative saliency models: ITTI, GBVS, SCLI, SBF, AWS-D, WSS, MWS, WSSA. It can be observed that our method is able to handle various challenging scenes well and produces more accurate results than other competitors.   </p>     
 
 #### Qualitative comparisons:
 <p align="center">  Quantitative comparisons between our method with other fully-/weakly-/un-supervised methods on 6 datasets. Bold means the best result, "
 denotes the higher the score, the better the performance.  </p>     
-<div align=center><img width="700" height="800" src="https://github.com/guotaowang/STANet/blob/main/fig/compare3.gif"/></div>  
+<div align=center><img width="700" height="800" src="https://github.com/guotaowang/STANet/blob/main/fig/comparef.gif"/></div>  
 
 ### References  
 [1][Tsiami, A., Koutras, P., Maragos, P.STAViS: Spatio-Temporal AudioVisual Saliency Network. (CVPR 2020).]  (https://openaccess.thecvf.com/content_CVPR_2020/papers/Tsiami_STAViS_Spatio-Temporal_AudioVisual_Saliency_Network_CVPR_2020_paper.pdf)  
