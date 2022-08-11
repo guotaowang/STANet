@@ -2,12 +2,12 @@
           
 ### *V<sub>2</sub>*-Weakly Supervised Visual-Auditory Fixation Prediction with Multigranularity Perception ([arxiv](https://arxiv.org/abs/2112.13697)), pdf:[V<sub>2</sub>](https://arxiv.org/pdf/2112.13697.pdf)
 ### *V<sub>1</sub>*-From Semantic Categories to Fixations: A Novel Weakly-supervised Visual-auditory Saliency Detection Approach ([CVPR2021](https://openaccess.thecvf.com/CVPR2021)), pdf:[V<sub>1</sub>](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_From_Semantic_Categories_to_Fixations_A_Novel_Weakly-Supervised_Visual-Auditory_Saliency_CVPR_2021_paper.pdf)
-****
+
 ### Application
 The application of visual-audio fixation prediction. A. Kinematics, B. Criminal Psychology, C. Airplane Pilots’ Skill Training, D. Lie Detection,
 E. Operative Risk Assessment, F. 360 Video Surveillance.
 <div align=center><img width="600" height="300" src="https://github.com/guotaowang/STANet/blob/main/fig/APP.gif"/></div>
-****
+
 ### Introduction
 *  This repository contains the source code, results, and evaluation toolbox of **STANet+** (V2), which are the journal **extension version** of our paper **STANet** (V<sub>1</sub>) published at **CVPR-2021**.    
 *  Compared our conference version STANet (V<sub>2</sub>), which  has been extended in **two distinct aspects**.     
