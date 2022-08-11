@@ -6,7 +6,7 @@
 ### Application
 The application of visual-audio fixation prediction. A. Kinematics, B. Criminal Psychology, C. Airplane Pilots’ Skill Training, D. Lie Detection,
 E. Operative Risk Assessment, F. 360 Video Surveillance.
-<div align=center><img width="600" height="400" src="https://github.com/guotaowang/STANet/blob/main/fig/APP.gif"/></div>
+<div align=center><img width="600" height="300" src="https://github.com/guotaowang/STANet/blob/main/fig/APP.gif"/></div>
 ****
 ### Introduction
 *  This repository contains the source code, results, and evaluation toolbox of **STANet+** (V2), which are the journal **extension version** of our paper **STANet** (V<sub>1</sub>) published at **CVPR-2021**.    
