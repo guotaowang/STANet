@@ -70,7 +70,7 @@ Training the model of **STA** and **STA+** using the AVE video frames with the g
 ##### ***Step 1.*** Using the function **audiostft.py** to convert the audio files (.wav) to get the audio features (.h5).  
 ##### ***Step 2.*** Testing STA, STA+ network, fusing the test results to generate final saliency results.(STANet+)  
 The model **weight** file STANet+, STANet, AudioSwitch:  
-([Baidu Netdisk](https://pan.baidu.com/s/1nvtJm1Z6-sHBaLPsEHhw4Q), code:6afo).    
+([Baidu Netdisk](https://pan.baidu.com/s/12hiunJrdi5fNjftZsVRTKQ), code:r5fs).    
 ### Evaluation  
 ##### We use the evaluation code in the paper of [**STAVIS**](https://github.com/atsiami/STAViS) for fair  comparisons.     
 ##### You may need to revise the algorithms, data_root, and maps_root defined in the **main.m**.     
