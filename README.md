@@ -37,7 +37,8 @@ Figure 2: Some representative ’fixation shifting’ cases, additional multigra
 * soundmodel       
 * Linux
 * TITAN V * 8
-### Fasting Test Version
+
+### Fastly Test Version
 https://pan.baidu.com/s/12hiunJrdi5fNjftZsVRTKQ 
 Code:r5fs
 
