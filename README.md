@@ -1,6 +1,4 @@
 # Pytorch Implementation for **(STANet+ and STANet)** 
-
-### A chinese version：https://github.com/Full-Adder/STA_trial.
           
 ### *V<sub>2</sub>*-Weakly Supervised Visual-Auditory Fixation Prediction with Multigranularity Perception ([arxiv](https://arxiv.org/abs/2112.13697)), pdf:[V<sub>2</sub>](https://arxiv.org/pdf/2112.13697.pdf)
 ### *V<sub>1</sub>*-From Semantic Categories to Fixations: A Novel Weakly-supervised Visual-auditory Saliency Detection Approach ([CVPR2021](https://openaccess.thecvf.com/CVPR2021)), pdf:[V<sub>1</sub>](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_From_Semantic_Categories_to_Fixations_A_Novel_Weakly-Supervised_Visual-Auditory_Saliency_CVPR_2021_paper.pdf)
@@ -79,6 +77,8 @@ The model **weight** file STANet+, STANet, AudioSwitch:
 ##### We provide the saliency maps of the **SOTA**:  
 (**STANet+**, **STANet**, ITTI, GBVS, SCLI, AWS-D, SBF, CAM, GradCAM, GradCAMpp, SGradCAMpp, xGradCAM, SSCAM, ScoCAM, LCAM, ISCAM, ACAM, EGradCAM, ECAM, SPG, VUNP, WSS, MWS, WSSA).  
 ([Baidu Netdisk](https://pan.baidu.com/s/1nvtJm1Z6-sHBaLPsEHhw4Q), code:6afo).  
+
+### A chinese version：https://github.com/Full-Adder/STA_trial.
 
 #### Quantitative comparisons:    
 <div align=center><img width="650" height="850" src="https://github.com/guotaowang/STANet/blob/main/fig/Compare2.gif"/></div>
